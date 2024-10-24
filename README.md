@@ -24,17 +24,3 @@ A comprehensive solution built for modern software development using **Java**, *
 - [Sujoy Ghoshal](mailto:sujoy2025sdeintern@gmail.com)
 
 ## 📑 **API Reference**
-
-#### Get all items
-
-```http
-GET /api/items
-
-### Key Elements in the README:
-- **Badges**: Includes MIT License, GPLv3 License, AGPL License, build status, contributors, and issue badges.
-- **License**: Section for the project’s licensing, defaulting to MIT.
-- **API Reference**: Provides an overview of API endpoints.
-- **Features & Setup**: Lists key project features and step-by-step setup instructions.
-
-You can further modify it by adding more details, images, or additional information to make it even more comprehensive.
-
